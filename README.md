@@ -24,4 +24,68 @@
 
 </div>
 
+---<div align="center">
+
+## ⚡ WHO AM I?
+
+### `> Initializing developer profile...`
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👨‍💻 About Me
+
+Hey! I'm **Anmol Gola**, an aspiring AI/ML Developer passionate about building intelligent solutions and exploring emerging technologies.
+
+- 🎓 B.Tech CSE (AI & ML) — GLA University
+- 📊 BS Data Science — IIT Madras
+- 🤖 Exploring Artificial Intelligence & Generative AI
+- ☁️ Learning Cloud Computing and DevOps
+- 💻 Practicing Data Structures & Algorithms
+- 🚀 Building real-world technology projects
+- 🌍 Interested in Open Source and developer communities
+
+</td>
+<td width="45%" valign="top">
+
+### 🖥️ Developer Terminal
+
+```bash
+anmol@github:~$ whoami
+
+AI/ML Developer
+Problem Solver
+Tech Enthusiast
+
+anmol@github:~$ current_focus
+
+AI & Machine Learning
+Data Science
+Cloud Technologies
+Open Source
+
+anmol@github:~$ motto
+
+"Build something
+ that matters."
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 💫 MY PHILOSOPHY
+
+**Think Beyond Limits. Build With Purpose. Innovate Without Boundaries.**
+
+</div>
+
 ---
+
