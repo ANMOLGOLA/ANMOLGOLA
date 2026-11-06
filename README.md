@@ -11,9 +11,6 @@
 <a href="https://github.com/ANMOLGOLA">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/anmolgola66571">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 <a href="https://anmol-gola-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -24,9 +21,11 @@
 
 </div>
 
----<div align="center">
+---
 
-## ⚡ WHO AM I?
+<div align="center">
+
+# ⚡ WHO AM I?
 
 ### `> Initializing developer profile...`
 
@@ -46,14 +45,15 @@ Hey! I'm **Anmol Gola**, an aspiring AI/ML Developer passionate about building i
 - ☁️ Learning Cloud Computing and DevOps
 - 💻 Practicing Data Structures & Algorithms
 - 🚀 Building real-world technology projects
-- 🌍 Interested in Open Source and developer communities
+- 🌍 Interested in Open Source and Developer Communities
 
 </td>
+
 <td width="45%" valign="top">
 
 ### 🖥️ Developer Terminal
 
-```bash
+<pre>
 anmol@github:~$ whoami
 
 AI/ML Developer
@@ -71,61 +71,11 @@ anmol@github:~$ motto
 
 "Build something
  that matters."
-```
-<div align="center">
+</pre>
 
-# ⚡ TECH ARSENAL
-
-### `The technologies I use to turn ideas into reality.`
-
-<br/>
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript&theme=dark" />
-
-<br/><br/>
-
-### 🧠 AI • Machine Learning • Data Science
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-<br/><br/>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs&theme=dark" />
-
-<br/><br/>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,vercel&theme=dark" />
-
-<br/><br/>
-
-### 🗄️ Databases & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,linux&theme=dark" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=2&section=footer" width="80%" />
-
-</div>
-
----
 </td>
 </tr>
 </table>
-
-<br/>
 
 <div align="center">
 
@@ -137,3 +87,67 @@ anmol@github:~$ motto
 
 ---
 
+<div align="center">
+
+# ⚡ TECH ARSENAL
+
+### `The technologies I use to turn ideas into reality.`
+
+</div>
+
+### 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" />
+
+</div>
+
+### 🧠 AI • Machine Learning • Data Science
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</div>
+
+### 🌐 Web Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs&theme=dark" />
+
+</div>
+
+### ☁️ Cloud & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,vercel&theme=dark" />
+
+</div>
+
+### 🗄️ Databases & Developer Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,linux&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 ALWAYS LEARNING. ALWAYS BUILDING.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,50:3B0764,100:22D3EE&height=100&section=footer" />
+
+</div>
