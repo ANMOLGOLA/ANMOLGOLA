@@ -1,102 +1,113 @@
 <div align="center">
 
-</div><div align="center">
+<!-- HERO SECTION -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,30:3B0764,65:2563EB,100:22D3EE&height=250&section=header&text=ANMOL%20GOLA&fontSize=75&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=BUILDING%20INTELLIGENCE%20%E2%80%A2%20CREATING%20IMPACT&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:1e1b4b,55:4c1d95,80:2563eb,100:06b6d4&height=260&section=header&text=ANMOL%20GOLA&fontSize=85&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=ENGINEERING%20INTELLIGENCE.%20BUILDING%20THE%20FUTURE.&descAlignY=60&descSize=15" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=AI%2FML+Developer+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Cloud+Technology+Explorer+%E2%98%81%EF%B8%8F;Building+AI-Powered+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=AI%2FML+Developer+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Technology+Community+Builder+%F0%9F%9A%80;Turning+Ideas+Into+Intelligent+Solutions." />
 
 <br/><br/>
-
-<div align="center">
 
 <a href="https://github.com/ANMOLGOLA">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://linkedin.com/in/anmolgola66571">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://www.instagram.com/anmolgola.in">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 <a href="https://anmol-gola-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel"/>
 </a>
-
-</div>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ANMOLGOLA&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ANMOLGOLA&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS" />
+<img src="https://img.shields.io/github/followers/ANMOLGOLA?style=for-the-badge&color=2563EB&label=FOLLOWERS" />
+
+<br/><br/>
+
+**`THINK • BUILD • INNOVATE • REPEAT`**
 
 </div>
 
 ---
 
-<div align="center">
+<!-- ABOUT ME -->
 
-# ⚡ WHO AM I?
-
-### `> Initializing developer profile...`
-
-</div>
+<h2 align="center">◈ THE DEVELOPER BEHIND THE CODE</h2>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-### 👨‍💻 About Me
+### Hey, I'm Anmol! 👋
 
-Hey! I'm **Anmol Gola**, an aspiring AI/ML Developer passionate about building intelligent solutions and exploring emerging technologies.
+I'm an aspiring **AI/ML Developer and Data Science enthusiast** passionate about transforming innovative ideas into meaningful technology.
 
-- 🎓 B.Tech CSE (AI & ML) — GLA University
-- 📊 BS Data Science — IIT Madras
-- 🤖 Exploring Artificial Intelligence & Generative AI
-- ☁️ Learning Cloud Computing and DevOps
-- 💻 Practicing Data Structures & Algorithms
-- 🚀 Building real-world technology projects
-- 🌍 Interested in Open Source and Developer Communities
+Currently exploring the intersection of Artificial Intelligence, Machine Learning, Cloud Computing, and Software Engineering.
+
+🎓 B.Tech in Computer Science & Engineering (AI & ML) at GLA University.
+
+📊 Pursuing BS in Data Science from IIT Madras.
+
+🤖 Exploring Generative AI, Machine Learning and intelligent agents.
+
+☁️ Building knowledge in AWS, Google Cloud and Microsoft Azure.
+
+💻 Strengthening my programming and Data Structures & Algorithms fundamentals.
+
+🌍 Passionate about open-source, technology communities and developer ecosystems.
+
+🚀 Always experimenting, learning and building something new.
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-### 🖥️ Developer Terminal
+### `$ whoami`
 
-<pre>
-anmol@github:~$ whoami
+```yaml
+name: Anmol Gola
 
-AI/ML Developer
-Problem Solver
-Tech Enthusiast
+identity:
+  - AI/ML Developer
+  - Data Science Enthusiast
+  - Community Builder
 
-anmol@github:~$ current_focus
+education:
+  - GLA University
+  - IIT Madras
 
-AI & Machine Learning
-Data Science
-Cloud Technologies
-Open Source
+interests:
+  - Artificial Intelligence
+  - Generative AI
+  - Cloud Computing
+  - Open Source
+  - Software Engineering
 
-anmol@github:~$ motto
-
-"Build something
- that matters."
-</pre>
+mindset: >
+  Learn continuously.
+  Build fearlessly.
+  Create meaningful impact.
+```
 
 </td>
 </tr>
 </table>
----
 
 ---
+
+<!-- LEADERSHIP -->
+
+<h2 align="center">◈ LEADERSHIP & COMMUNITY</h2>
 
 <div align="center">
 
-# 🏆 LEADERSHIP & COMMUNITY IMPACT
-
-### `Leading communities. Creating opportunities. Inspiring innovation.`
+*Technology is powerful. Communities make it impactful.*
 
 </div>
 
@@ -104,31 +115,37 @@ anmol@github:~$ motto
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 GOOGLE</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/GOOGLE-Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
+### 🌐 GOOGLE
 
-- Google Student Ambassador (GSA) 2026.
-- Promoted Google Gemini and AI technologies.
+<img src="https://img.shields.io/badge/GOOGLE-STUDENT_AMBASSADOR-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</div>
+
+- Google Student Ambassador 2026.
+- Represented Google and Gemini on campus.
+- Promoted AI literacy and emerging technologies.
 - Organized student engagement initiatives.
-- Encouraged AI learning and technology adoption.
+- Encouraged students to explore Google's AI ecosystem.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">☁️ AMAZON WEB SERVICES</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-Student_Builder_Campus_Leader-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+### ☁️ AMAZON WEB SERVICES
 
-- AWS Student Builder Campus Leader (SBCL).
+<img src="https://img.shields.io/badge/AWS-STUDENT_BUILDER_CAMPUS_LEADER-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+- AWS Student Builder Campus Leader.
 - Promoted AWS Builder Center.
 - Organized cloud awareness initiatives.
-- Encouraged students to explore AWS technologies.
+- Encouraged hands-on cloud learning.
+- Connected students with the AWS ecosystem.
 
 </td>
 </tr>
@@ -136,30 +153,34 @@ anmol@github:~$ motto
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🚀 LET'S COOK</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/LET'S_COOK-CHIEF_OPERATING_OFFICER-7C3AED?style=for-the-badge"/>
-</p>
+### 🚀 LET'S COOK
+
+<img src="https://img.shields.io/badge/LEADERSHIP-CHIEF_OPERATING_OFFICER-7C3AED?style=for-the-badge"/>
+
+</div>
 
 - Chief Operating Officer (COO).
-- Contributing to organizational operations.
-- Supporting team coordination and execution.
-- Driving community initiatives and activities.
+- Supporting organizational operations.
+- Driving team coordination and execution.
+- Contributing to community initiatives.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">⭐ STAR CLUB — GLA UNIVERSITY</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/STAR_CLUB-EVENT_CO--HEAD-06B6D4?style=for-the-badge"/>
-</p>
+### ⭐ STAR CLUB
 
-- Event Co-Head at STAR Club, GLA University.
+<img src="https://img.shields.io/badge/GLA_UNIVERSITY-EVENT_CO--HEAD-06B6D4?style=for-the-badge"/>
+
+</div>
+
+- Event Co-Head at STAR Club.
 - Supporting event planning and execution.
-- Coordinating activities and student engagement.
+- Coordinating student engagement activities.
 - Promoting collaboration and creativity.
 
 </td>
@@ -168,96 +189,30 @@ anmol@github:~$ motto
 
 <div align="center">
 
-<br/>
-
-### 💜 LEADERSHIP PHILOSOPHY
-
-**Build Communities. Empower People. Create Impact.**
+**BUILD COMMUNITIES. EMPOWER PEOPLE. CREATE IMPACT.**
 
 </div>
 
 ---
 
-<div align="center">
+<!-- PROJECTS -->
 
-### 💜 MY LEADERSHIP PHILOSOPHY
-
-**Don't just build your career. Build opportunities for others.**
-
-</div>
-
----
-<div align="center">
-
-### 💫 MY PHILOSOPHY
-
-**Think Beyond Limits. Build With Purpose. Innovate Without Boundaries.**
-
-</div>
-
----
+<h2 align="center">◈ THINGS I'M BUILDING</h2>
 
 <div align="center">
 
-# ⚡ TECH ARSENAL
-
-### `The technologies I use to turn ideas into reality.`
+*Ideas are everywhere. Execution makes the difference.*
 
 </div>
 
-### 💻 Programming Languages
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🛡️ TraceMail
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" />
+**AI-Powered Email Fraud Detection**
 
-</div>
+An intelligent email classification platform designed to distinguish legitimate emails, phishing attempts and spam using Machine Learning and NLP.
 
-### 🧠 AI • Machine Learning • Data Science
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-</div>
-
-### 🌐 Web Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs&theme=dark" />
-
-</div>
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,vercel&theme=dark" />
-
-</div>
-
-### 🗄️ Databases & Developer Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,linux&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 ALWAYS LEARNING. ALWAYS BUILDING.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,50:3B0764,100:22D3EE&height=100&section=footer" />
-
-</div>
+`Python
