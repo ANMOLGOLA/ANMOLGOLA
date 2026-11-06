@@ -88,7 +88,96 @@ anmol@github:~$ motto
 </td>
 </tr>
 </table>
+---
 
+<div align="center">
+
+# 🏆 LEADERSHIP, AMBASSADORSHIPS & COMMUNITY IMPACT
+
+### `Beyond coding — building communities, creating opportunities.`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🌐 GOOGLE
+
+<img src="https://img.shields.io/badge/Google-Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</div>
+
+- Google Student Ambassador (GSA) 2026.
+- Represented Google and Gemini on campus.
+- Promoted AI learning and Google technologies.
+- Engaged with students through workshops and initiatives.
+- Helped students discover learning opportunities.
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ☁️ AMAZON WEB SERVICES
+
+<img src="https://img.shields.io/badge/AWS-Student_Builder_Campus_Leader-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+- AWS Student Builder Campus Leader (SBCL).
+- Promoted AWS Builder Center.
+- Organized AWS awareness and engagement initiatives.
+- Encouraged students to explore cloud computing.
+- Supported hands-on technology learning.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💻 DEVELOPER COMMUNITIES
+
+</div>
+
+- GDG GLA University involvement.
+- Student developer engagement.
+- Community building and knowledge sharing.
+- Promoting open-source opportunities.
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🚀 EVENT ORGANIZATION
+
+</div>
+
+- Organized technical workshops and sessions.
+- Coordinated student engagement activities.
+- Supported hackathons and developer events.
+- Created opportunities for peer learning.
+- Connected students with technology ecosystems.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💜 MY LEADERSHIP PHILOSOPHY
+
+**Don't just build your career. Build opportunities for others.**
+
+</div>
+
+---
 <div align="center">
 
 ### 💫 MY PHILOSOPHY
