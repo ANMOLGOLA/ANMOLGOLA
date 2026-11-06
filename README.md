@@ -168,10 +168,6 @@ anmol@github:~$ motto
 
 <div align="center">
 
-### 💻 DEVELOPER COMMUNITIES
-
-GDG GLA University • Goonj Club
-
 <br/>
 
 ### 💜 LEADERSHIP PHILOSOPHY
