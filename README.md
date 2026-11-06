@@ -90,11 +90,13 @@ anmol@github:~$ motto
 </table>
 ---
 
+---
+
 <div align="center">
 
-# 🏆 LEADERSHIP, AMBASSADORSHIPS & COMMUNITY IMPACT
+# 🏆 LEADERSHIP & COMMUNITY IMPACT
 
-### `Beyond coding — building communities, creating opportunities.`
+### `Leading communities. Creating opportunities. Inspiring innovation.`
 
 </div>
 
@@ -102,36 +104,31 @@ anmol@github:~$ motto
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">🌐 GOOGLE</h3>
 
-### 🌐 GOOGLE
-
-<img src="https://img.shields.io/badge/Google-Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/GOOGLE-Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
 - Google Student Ambassador (GSA) 2026.
-- Represented Google and Gemini on campus.
-- Promoted AI learning and Google technologies.
-- Engaged with students through workshops and initiatives.
-- Helped students discover learning opportunities.
+- Promoted Google Gemini and AI technologies.
+- Organized student engagement initiatives.
+- Encouraged AI learning and technology adoption.
 
 </td>
+
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">☁️ AMAZON WEB SERVICES</h3>
 
-### ☁️ AMAZON WEB SERVICES
-
+<p align="center">
 <img src="https://img.shields.io/badge/AWS-Student_Builder_Campus_Leader-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
+</p>
 
 - AWS Student Builder Campus Leader (SBCL).
 - Promoted AWS Builder Center.
-- Organized AWS awareness and engagement initiatives.
-- Encouraged students to explore cloud computing.
-- Supported hands-on technology learning.
+- Organized cloud awareness initiatives.
+- Encouraged students to explore AWS technologies.
 
 </td>
 </tr>
@@ -139,35 +136,51 @@ anmol@github:~$ motto
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">🚀 LET'S COOK</h3>
 
-### 💻 DEVELOPER COMMUNITIES
+<p align="center">
+<img src="https://img.shields.io/badge/LET'S_COOK-CHIEF_OPERATING_OFFICER-7C3AED?style=for-the-badge"/>
+</p>
 
-</div>
-
-- GDG GLA University involvement.
-- Student developer engagement.
-- Community building and knowledge sharing.
-- Promoting open-source opportunities.
+- Chief Operating Officer (COO).
+- Contributing to organizational operations.
+- Supporting team coordination and execution.
+- Driving community initiatives and activities.
 
 </td>
+
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">⭐ STAR CLUB — GLA UNIVERSITY</h3>
 
-### 🚀 EVENT ORGANIZATION
+<p align="center">
+<img src="https://img.shields.io/badge/STAR_CLUB-EVENT_CO--HEAD-06B6D4?style=for-the-badge"/>
+</p>
 
-</div>
-
-- Organized technical workshops and sessions.
-- Coordinated student engagement activities.
-- Supported hackathons and developer events.
-- Created opportunities for peer learning.
-- Connected students with technology ecosystems.
+- Event Co-Head at STAR Club, GLA University.
+- Supporting event planning and execution.
+- Coordinating activities and student engagement.
+- Promoting collaboration and creativity.
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### 💻 DEVELOPER COMMUNITIES
+
+GDG GLA University • Goonj Club
+
+<br/>
+
+### 💜 LEADERSHIP PHILOSOPHY
+
+**Build Communities. Empower People. Create Impact.**
+
+</div>
+
+---
 
 <div align="center">
 
