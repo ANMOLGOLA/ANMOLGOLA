@@ -11,7 +11,7 @@
 <a href="https://github.com/ANMOLGOLA">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/anmolgola66571">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://anmol-gola-portfolio.vercel.app/">
