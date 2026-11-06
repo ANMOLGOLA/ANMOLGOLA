@@ -72,7 +72,55 @@ anmol@github:~$ motto
 "Build something
  that matters."
 ```
+<div align="center">
 
+# ⚡ TECH ARSENAL
+
+### `The technologies I use to turn ideas into reality.`
+
+<br/>
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript&theme=dark" />
+
+<br/><br/>
+
+### 🧠 AI • Machine Learning • Data Science
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<br/><br/>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs&theme=dark" />
+
+<br/><br/>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,vercel&theme=dark" />
+
+<br/><br/>
+
+### 🗄️ Databases & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,linux&theme=dark" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=2&section=footer" width="80%" />
+
+</div>
+
+---
 </td>
 </tr>
 </table>
